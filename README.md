@@ -1,11 +1,11 @@
 # 💫 About Me
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&center=true&vCenter=true&width=670&height=100&lines=Blockchain+and+Backend+Engineer;6%2B+years+experience;Always+learning+new+tech" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&center=true&vCenter=true&width=670&height=100&lines=Blockchain+and+Backend+Engineer;7%2B+years+experience;Always+learning+new+tech" alt="Typing SVG" /></a>
 </div>
 
 <br/>
-- 🔗 Blockchain and Backend Engineer with 6+ years of hands-on experience in design&building robust blockchain and backend solutions<br/>
+- 🔗 Blockchain and Backend Engineer with 7+ years of hands-on experience in design&building robust blockchain and backend solutions<br/>
 - 👌 Proficient in on-chain and off-chain development across various blockchain networks like Ethereum and Solana<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, DigitalOcean, GCP and Azure<br/>
 <br/>
